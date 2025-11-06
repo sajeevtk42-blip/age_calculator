@@ -1,4 +1,4 @@
-# 🧮 Age Calculator App
+#  Age Calculator App
 
 ![Homepage](./image.png)
 
